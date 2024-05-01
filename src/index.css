@@ -27,7 +27,7 @@ section{
   right: 0;
   width: 100%;
   z-index: 1000;
-  max-height: 80%;
+  max-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
